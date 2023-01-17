@@ -24,8 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/product-preview-card-component-ujPyz6zSiE)
-- Live Site URL: [live site URL here](https://mo-adel-tronic.github.io/product-preview-card-component/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-4Eq0pmr7IL)
+- Live Site URL: [live site URL here](https://mo-adel-tronic.github.io/profile-card-component/)
 
 ## My process
 
